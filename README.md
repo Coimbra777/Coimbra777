@@ -7,11 +7,11 @@
 </h3>
 
 <p align="center">
-  <strong>Node.js • NestJS • TypeScript • PHP • Laravel • Docker • AWS • Redis • RabbitMQ</strong>
+  <strong>Node.js • NestJS • TypeScript • Python • PHP • Laravel • Docker • AWS • Redis • RabbitMQ</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Backend+Developer+com+experi%C3%AAncia+Fullstack;APIs+REST%2C+SaaS%2C+Docker%2C+AWS+e+Mensageria;Node.js+%7C+NestJS+%7C+PHP+%7C+Laravel+%7C+TypeScript;Construindo+sistemas+escal%C3%A1veis+e+f%C3%A1ceis+de+evoluir" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Backend+Developer+com+experi%C3%AAncia+Fullstack;APIs+REST%2C+SaaS%2C+Docker%2C+AWS+e+Mensageria;Node.js+%7C+NestJS+%7C+PHP+%7C+Laravel+%7C+Python+%7C+TypeScript;Construindo+sistemas+escal%C3%A1veis+e+f%C3%A1ceis+de+evoluir" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
 
 Sou desenvolvedor **Backend com experiência Fullstack**, atuando no desenvolvimento de aplicações web, APIs REST, integrações entre sistemas e soluções SaaS.
 
-Tenho experiência com **Node.js, NestJS, TypeScript, PHP, Laravel, Symfony, Docker, AWS, Redis, RabbitMQ, PostgreSQL, MySQL, SQL Server e MongoDB**.
+Tenho experiência com **Node.js, NestJS, TypeScript, Python, PHP, Laravel, Symfony, Docker, AWS, Redis, RabbitMQ, PostgreSQL, MySQL, SQL Server e MongoDB**.
 
 Gosto de construir soluções que resolvem problemas reais, investigar gargalos, melhorar fluxos existentes e aplicar boas práticas para criar sistemas mais robustos, escaláveis e fáceis de evoluir.
 
@@ -67,6 +67,7 @@ Atualmente venho aprofundando meus estudos em **arquitetura de software, micross
   <img src="https://img.shields.io/badge/Workers-111827?style=for-the-badge&logo=buffer&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Testes-111827?style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/Clean%20Code-111827?style=for-the-badge&logo=codefactor&logoColor=white" />
 </p>
@@ -78,7 +79,7 @@ Atualmente venho aprofundando meus estudos em **arquitetura de software, micross
 ### Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,php,laravel,symfony&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,py,php,laravel,symfony&theme=dark" />
 </p>
 
 ### Frontend
